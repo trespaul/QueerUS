@@ -1,0 +1,16 @@
+member:
+  - title : "Simónn Meyer"
+    image : "images/team/simonn.jpg"
+    designation : "Chairperson"
+    
+  - title : "Paul Joubert"
+    image : "images/team/paul.jpg"
+    designation : "Vice-Chairperson"
+    
+  - title : "Nomzamo Nyoni"
+    image : "images/team/nomzamo.jpg"
+    designation : "Treasurer"
+
+  - title : "Ethan Conradie"
+    image : "images/team/ethan.jpg"
+    designation : "Secretary"
