@@ -8,3 +8,9 @@ Since its establishment in 2002, QueerUS (formerly known as LesBiGay Stellenbosc
 Our social events, in particular, are conducive to the vision that QueerUS strives to uphold as it provides students with a suitable and emboldening platform to express their true, unmasked individuality within a sheltered and supportive environment, devoid of any forms of homophobic/transphobic intolerance.
 
 QueerUS is also an active participant in queer activism and awareness campaigns, as we believe that, in order for society in general to adopt a more informed and progressive approach towards queer affairs, awareness and activism are important supplementary fundamentals. Students who do not identify within the Queer community, but subscribe to the vision and objectives of our society, are also welcomed unconditionally.
+
+All of this and more is codified in our [constitution](QueerUS_Constitution.pdf).
+
+---
+
+You can [sign up to our email list](http://eepurl.com/gAGuIT) or follow us on [Facebook](https://fb.me/queerus) and [Instagram](https://instagram.com/queer.us) to keep updated.

@@ -1,16 +1,25 @@
 member:
-  - title : "Simónn Meyer"
-    image : "images/team/simonn.jpg"
+  - title : "Chanté Arab"
+    image : "images/team/chante.jpg"
     designation : "Chairperson"
+    email: "mailto:chair@stelliesqueer.us"
     
+  - title : "Chelsea Rae Parenzee"
+    image : "images/team/chelsea.jpg"
+    designation : "Vice-Chair & Social"
+    email: "mailto:vice@stelliesqueer.us"
+    
+  - title : "Seth Jay Gilbert"
+    image : "images/team/seth.jpg"
+    designation : "Treasurer"
+    email: "mailto:treasurer@stelliesqueer.us"
+
+  - title : "Tshegofatso Matsha"
+    image : "images/team/tshego.jpg"
+    designation : "Secretary"
+    email: "mailto:secretary@stelliesqueer.us"
+
   - title : "Paul Joubert"
     image : "images/team/paul.jpg"
-    designation : "Vice-Chairperson"
-    
-  - title : "Nomzamo Nyoni"
-    image : "images/team/nomzamo.jpg"
-    designation : "Treasurer"
-
-  - title : "Ethan Conradie"
-    image : "images/team/ethan.jpg"
-    designation : "Secretary"
+    designation : "Education"
+    email: "mailto:education@stelliesqueer.us"
