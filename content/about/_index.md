@@ -13,4 +13,4 @@ All of this and more is codified in our [constitution](QueerUS_Constitution.pdf)
 
 ---
 
-You can [sign up to our email list](http://eepurl.com/gAGuIT) or follow us on [Facebook](https://fb.me/queerus) and [Instagram](https://instagram.com/queer.us) to keep updated.
+You can [sign up to our email list](https://mailchi.mp/11bec7296a8b/queerus) or follow us on [Facebook](https://fb.me/queerus) and [Instagram](https://instagram.com/queer.us) to keep updated.
