@@ -1,68 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://stelliesqueer.us/about/</loc>
+    <loc>paulj.tk/queerus/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income.1/</loc>
+  </url><url>
+    <loc>paulj.tk/queerus/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income.2/</loc>
+  </url><url>
+    <loc>paulj.tk/queerus/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>paulj.tk/queerus/categories/</loc>
+  </url><url>
+    <loc>paulj.tk/queerus/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income.3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income.4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income.5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/amazon-increase-income/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/blog/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/contact/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/portfolio/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://stelliesqueer.us/tags/</loc>
-  </url>
-  
 </urlset>
