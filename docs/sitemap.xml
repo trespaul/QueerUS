@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/queerus/about/</loc>
+    <loc>/QueerUS/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>/queerus/contact/</loc>
+    <loc>/QueerUS/contact/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>/queerus/</loc>
+    <loc>/QueerUS/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>/queerus/categories/</loc>
+    <loc>/QueerUS/categories/</loc>
   </url><url>
-    <loc>/queerus/tags/</loc>
+    <loc>/QueerUS/tags/</loc>
   </url>
 </urlset>
