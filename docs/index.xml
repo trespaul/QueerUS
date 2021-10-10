@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QueerUS</title>
-    <link>paulj.tk/queerus/</link>
+    <link>/queerus/</link>
     <description>Recent content on QueerUS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="paulj.tk/queerus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/queerus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
